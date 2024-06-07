@@ -22,3 +22,9 @@ Clone this repo to get started
 percentage of automated tasks = (Number of automated Tasks / total number of tasks) * 100
 
 simply by keep track of how many tasks you neeed to research without AI and compute the percentage with AI assist.
+
+tasks can be automated: data collection from various sources, user preferences and options, price comparison, book reservation
+
+tasks cannot be automated: answer users question or handle requests that require human judgement.
+
+this project can handle 80% of trip planning tasks while book reservation is not yet implemented.
