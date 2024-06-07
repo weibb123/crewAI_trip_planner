@@ -16,3 +16,7 @@ Clone this repo to get started
 
 
 3. ```reflex run```
+
+
+## Metrics to measure success
+percentage of automated tasks = (Number of automated Tasks / total number of tasks) * 100
