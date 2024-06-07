@@ -20,3 +20,5 @@ Clone this repo to get started
 
 ## Metrics to measure success
 percentage of automated tasks = (Number of automated Tasks / total number of tasks) * 100
+
+simply by keep track of how many tasks you neeed to research without AI and compute the percentage with AI assist.
